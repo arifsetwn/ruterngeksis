@@ -1,5 +1,10 @@
 Aplikasi ini berjalan dengan melakukan deteksi gerakan pada ruangan dan akan mengambil screnshoot. Screenshoot tersebut akan diupload ke twiter menggunakan api dari twitpic
 
+Hardware:
+1. TPLINK 3420 dengan OS Openwrt
+2. USB hub
+3. Webcam
+
 Yang harus sudah dilakukan :
 1. Exroot
 2. Install motion
